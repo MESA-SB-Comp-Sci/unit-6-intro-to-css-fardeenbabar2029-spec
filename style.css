@@ -1,0 +1,26 @@
+h1 {
+    color:lightskyblue
+    text-align: center;
+}
+
+body {
+  background-color: lightblue;
+}
+p {
+  font-family: verdana;
+  font-size: 20px;
+}
+
+div {
+  width: 300px;
+  border: 15px solid green;
+  padding: 50px;
+  margin: 20px;
+}
+body {
+  background-image: url("/SandCastle.jpg");
+  width: 300px;
+  border: 15px;
+  padding: 50px;
+  margin: 20px;
+}
